@@ -1,9 +1,14 @@
+// define sensores obstaculo
+// define sensores de linha
+// define movimentacao motores
+// define funcoes de movimentacao
+// delay com som buzzer
+
 void setup() {
-  // put your setup code here, to run once:
 
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+
 
 }
